@@ -1,5 +1,5 @@
 # practica1
-Jose Luis Rojas Dellan
+Eduardo Mejias Avila
 Ejemplo de como usar repositorios remotos
 Esto lo escribi en el repositorio local
 
